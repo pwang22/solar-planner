@@ -1,8 +1,0 @@
-Use object recognition to detect rooftops
-Calculate total rooftop area within bounds of picture- maybe percentage of highlighted pixels
-Scale percentage of highlighted pixels to obtain real area
-Calculate maximum possible annual output of 100% panel coverage
-Talk about usage as planning tool for organizations or other entities for conversion to solar energy
-Can calculate length of time for positive returns
-Calculate significance of solar energy towards total campus energy usage, for example
-How much of total campus energy can be provided by solar power?
